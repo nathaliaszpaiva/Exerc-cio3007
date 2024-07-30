@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Playwrite+AR:wght@100..400&family=Playwrite+BE+WAL:wght@100..400&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+
+body{
+    background-color: black;
+}
+
+
+.container {
+    display: flex;
+    justify-content: center; /* Alinha horizontalmente ao centro */
+}
+
+.imagens {
+    width: 300px; /* Largura da imagem */
+}
+
+.fonti{
+    color: rgb(180, 95, 175);
+    font-size: 50px;
+    font-family: "Playwrite Argentina", serif;
+    text-align: center;
+}
+
+.fontir{
+    color: rgb(126, 132, 190);
+    font-size: 35px;
+    font-family: "Helvetica", serif;
+    text-align: center;
+}
+
+.fontee{
+    color: aliceblue;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.fontiw{
+    color: rgb(183, 160, 218);
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
